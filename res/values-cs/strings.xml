@@ -31,12 +31,12 @@
     <string name="setup_location">Služby určení polohy</string>
     <string name="location_access_summary"><b>Povolí aplikacím, které žádaly oprávnění</b> použít vaše informace o poloze. To může zahrnovat vaši aktuální, ale i minulé polohy.</string>
     <string name="location_agps_access_summary">Když je poloha zapnutá, <b>stahujte data satelitní asistence z internetu</b>, což může výrazně zlepšit výkon spuštění systému GPS.</string>
-    <string name="update_recovery_title">Aktualizovat crDroid recovery</string>
-    <string name="update_recovery_description">Aktualizace crDroid recovery při prvním spuštění po každé aktualizaci</string>
+    <string name="update_recovery_title">Aktualizovat meoewmeow recovery</string>
+    <string name="update_recovery_description">Aktualizace meoewmeow recovery při prvním spuštění po každé aktualizaci</string>
     <string name="update_recovery_warning">Oddíl recovery bude aktualizován ihned poté, co dokončíte nastavení. Vypněte tuto funkci, jestliže si přejete ponechat oddíl nezměněný.</string>
-    <string name="update_recovery_setting">Aktualizovat crDroid recovery společně s OS</string>
+    <string name="update_recovery_setting">Aktualizovat meoewmeow recovery společně s OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
-    <string name="setup_services">crDroid funkce</string>
+    <string name="setup_services">meoewmeow funkce</string>
     <string name="services_pp_explanation">Tyto služby rozšiřují funkce vašeho zařízení. Data budou použita v souladu se zásadami ochrany osobních údajů <xliff:g id="name" example="crDroid">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Zásady ochrany osobních údajů si můžete přečíst na jiném zařízení navštívením odkazu <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_help_improve_cm">Pomozte vylepšit <xliff:g id="name" example="crDroid">%s</xliff:g></string>

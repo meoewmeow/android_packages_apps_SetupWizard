@@ -31,12 +31,12 @@
     <string name="setup_location">Услуги за местоположение</string>
     <string name="location_access_summary"><b>Разреши приложения, които са поискали разрешение</b> за да използва информацията за вашето местоположение. Това може да включва текущото местоположение и последните места.</string>
     <string name="location_agps_access_summary">Когато местоположението е включено, <b>изтегли помощна сателитна информация от интернет</b>, за да повиши продуктивността на GPS при стартиране.</string>
-    <string name="update_recovery_title">Актуализиране на crDroid Recovery</string>
-    <string name="update_recovery_description">Актуализира crDroid Recovery при първо зареждане след всяка актуализация.</string>
+    <string name="update_recovery_title">Актуализиране на meoewmeow Recovery</string>
+    <string name="update_recovery_description">Актуализира meoewmeow Recovery при първо зареждане след всяка актуализация.</string>
     <string name="update_recovery_warning">Recovery ще се актуализира веднага щом завършите настройката. Ако искате да го запазите непокътнат, деактивирайте тази функция.</string>
-    <string name="update_recovery_setting">Актуализирайте crDroid Recovery заедно с операционната система</string>
+    <string name="update_recovery_setting">Актуализирайте meoewmeow Recovery заедно с операционната система</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
-    <string name="setup_services">crDroid функции</string>
+    <string name="setup_services">meoewmeow функции</string>
     <string name="services_pp_explanation">Тези услуги работят за вас, за да разширите възможностите на вашето устройство. Данните ще бъдат използвани в съответствие с<xliff:g id="name" example="crDroid">%1$s</xliff:g> политика за поверителност.</string>
     <string name="services_find_privacy_policy">Можете да прочетете политиката за поверителност на друго устройство, като посетите <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_help_improve_cm">Помогне за подобряване на <xliff:g id="name" example="crDroid">%s</xliff:g></string>
